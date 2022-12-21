@@ -1,2 +1,2 @@
-# superblog
-el mejor blog del mundo
+# megablog
+ahora si (espero)
